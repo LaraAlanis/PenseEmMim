@@ -1,0 +1,11 @@
+h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0065a2;
+   top: 50px;
+}
+
+p{ font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ff6f68; 
+    font: italic bold;
+}
